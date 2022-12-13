@@ -1,0 +1,6 @@
+c:\users\david\onedrive\documentos\visual studio 2015\Projects\ClienteSOAp\ClienteSOAp\bin\Debug\ClienteSOAp.exe.config
+c:\users\david\onedrive\documentos\visual studio 2015\Projects\ClienteSOAp\ClienteSOAp\bin\Debug\ClienteSOAp.exe
+c:\users\david\onedrive\documentos\visual studio 2015\Projects\ClienteSOAp\ClienteSOAp\bin\Debug\ClienteSOAp.pdb
+c:\users\david\onedrive\documentos\visual studio 2015\Projects\ClienteSOAp\ClienteSOAp\obj\Debug\ClienteSOAp.csprojResolveAssemblyReference.cache
+c:\users\david\onedrive\documentos\visual studio 2015\Projects\ClienteSOAp\ClienteSOAp\obj\Debug\ClienteSOAp.exe
+c:\users\david\onedrive\documentos\visual studio 2015\Projects\ClienteSOAp\ClienteSOAp\obj\Debug\ClienteSOAp.pdb
